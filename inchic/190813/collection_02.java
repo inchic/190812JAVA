@@ -66,25 +66,25 @@ public class collection_02 {
             switch (a) {
             case "Mango":
                 for (int b : list_mango) {
-                    System.out.printf(b + " ");
+                    System.out.printf(b + ", ");
                 }
                 System.out.println("");
                 break;
             case "Apple":
                 for (int c : list_apple) {
-                    System.out.printf(c + " ");
+                    System.out.printf(c + ", ");
                 }
                 System.out.println("");
                 break;
             case "Banana":
                 for (int d : list_banana) {
-                    System.out.printf(d + " ");
+                    System.out.printf(d + ", ");
                 }
                 System.out.println("");
                 break;
             case "Melon":
                 for (int e : list_melon) {
-                    System.out.printf(e + " ");
+                    System.out.printf(e + ", ");
                 }
                 System.out.println("");
                 break;

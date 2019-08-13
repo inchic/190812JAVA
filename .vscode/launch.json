@@ -2,6 +2,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - tryHashMap",
+            "request": "launch",
+            "mainClass": "tryHashMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JWEOverloadingWithParameters",
+            "request": "launch",
+            "mainClass": "JWEOverloadingWithParameters"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JWEOverloadingWithParameters_05",
+            "request": "launch",
+            "mainClass": "JWEOverloadingWithParameters_05"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - method_04",
+            "request": "launch",
+            "mainClass": "method_04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - overloading_04",
+            "request": "launch",
+            "mainClass": "overloading_04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - input_04",
+            "request": "launch",
+            "mainClass": "input_04"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - overloading",
+            "request": "launch",
+            "mainClass": "overloading"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - callByValue",
+            "request": "launch",
+            "mainClass": "callByValue"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - collection_02",
             "request": "launch",
             "mainClass": "collection_02"
